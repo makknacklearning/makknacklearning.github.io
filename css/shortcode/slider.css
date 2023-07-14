@@ -32,7 +32,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
     position: relative
 }
 .slider-all::before {
-    background-color: #000;
+    background-color:transparent;
     height: 100%;
     left: 0;
     opacity: 0.7;
